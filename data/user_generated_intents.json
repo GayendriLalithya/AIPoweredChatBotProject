@@ -1,0 +1,163 @@
+{
+    "intents": [
+        {
+            "patterns": [
+                "who is scooby doo",
+                "who is Dr Who",
+                "batman",
+                "I'm batman",
+                "RTX 1080",
+                "Gimini I need a Givve me a image of a Ram",
+                "I need a Give me an image of a Ram",
+                "goahead "
+            ],
+            "responses": [
+                "I'm sorry, I'm only allowed to answer tech-related questions. :)"
+            ],
+            "tag": "none tech questions"
+        },
+        {
+            "patterns": [
+                "Tell me about RTX 1080 Grahpic card"
+            ],
+            "responses": [
+                "The RTX 1080 is a high-end graphics card released by Nvidia in 2016. It is based on the Pascal architecture and is manufactured on a 16 nm process. The RTX 1080 features 2560 CUDA cores, 8 GB of GDDR5X memory, and a boost clock of 1733 MHz. It has a TDP of 180 watts and requires a minimum of a 500-watt power supply.\n\nThe RTX 1080 is a powerful graphics card that is capable of handling even the most demanding games at high resolutions and frame rates. It is also a good choice for VR gaming. However, it is important to note that the RTX 1080 is now two generations old and has been superseded by the RTX 2080 and RTX 3080.\n\nHere are some of the key features of the RTX 1080:\n\n* **2560 CUDA cores:** The RTX 1080 has a large number of CUDA cores, which are the processing units that handle graphics rendering. This gives it the power to handle even the most demanding games at high resolutions and frame rates.\n* **8 GB of GDDR5X memory:** The RTX 1080 has a large amount of memory, which is important for storing textures and other data that is needed for graphics rendering. This helps to reduce stuttering and improve overall performance.\n* **Boost clock of 1733 MHz:** The RTX 1080 has a high boost clock, which is the maximum speed that the card can run at. This helps to ensure that the card can handle even the most demanding games without dropping frames.\n* **TDP of 180 watts:** The RTX 1080 has a relatively high TDP, which means that it requires a powerful power supply. However, it is still less power-hungry than some other high-end graphics cards.\n\nOverall, the RTX 1080 is a powerful graphics card that is capable of handling even the most demanding games at high resolutions and frame rates. It is a good choice for gamers who want the best possible gaming experience. (This was gathered from Gemini API)"
+            ],
+            "images": [],
+            "tag": "noans"
+        },
+        {
+            "patterns": [
+                "Give me some information about Gaming VGAs "
+            ],
+            "responses": [
+                "**Gaming VGAs (Video Graphics Arrays)**\n\nGaming VGAs are specialized graphics cards designed to deliver optimal performance and features for gaming applications. They are responsible for rendering the visuals displayed on your monitor, including graphics, textures, and lighting effects. Here is some information about gaming VGAs:\n\n**Key Features:**\n\n* **High-Performance GPUs:** Gaming VGAs utilize powerful graphics processing units (GPUs) with thousands of cores to handle demanding graphics workloads.\n* **Dedicated Video Memory:** They have dedicated video memory (VRAM) ranging from a few gigabytes to tens of gigabytes, providing ample space for storing textures and other graphical data.\n* **Advanced Cooling Solutions:** Gaming VGAs often feature robust cooling systems, such as multiple fans or liquid cooling, to dissipate heat generated during intensive gaming sessions.\n* **Overclocking Support:** Many gaming VGAs allow for overclocking, which involves increasing the clock speed of the GPU and memory to achieve higher performance.\n* **Ray Tracing and DLSS:** Modern gaming VGAs support advanced graphics technologies like ray tracing and DLSS (Deep Learning Super Sampling), which enhance visual quality and performance.\n\n**Types of Gaming VGAs:**\n\nGaming VGAs come in various series and models from different manufacturers, such as NVIDIA GeForce and AMD Radeon. Some popular options include:\n\n* **NVIDIA GeForce RTX Series:** High-end gaming VGAs with ray tracing capabilities and DLSS support.\n* **AMD Radeon RX Series:** Competitive gaming VGAs offering excellent performance and value.\n* **Budget Gaming VGAs:** Affordable options for entry-level gamers or casual users.\n\n**Choosing a Gaming VGA:**\n\nWhen choosing a gaming VGA, consider the folgenden factors:\n\n* **Resolution and Refresh Rate:** Determine the resolution and refresh rate of your monitor to ensure the VGA can support it.\n* **Game Requirements:** Check the recommended and minimum system requirements of the games you want to play.\n* **Budget:** Set a budget and look for VGAs that offer the best performance within your price range.\n* **Brand and Reputation:** Consider the reputation and reliability of different VGA manufacturers.\n\nGaming VGAs play a crucial role in delivering an immersive and visually stunning gaming experience. By selecting the right VGA for your needs, you can enjoy smooth gameplay, high-quality graphics, and an overall enhanced gaming experience. (This was gathered from Gemini API)"
+            ],
+            "images": [],
+            "tag": "GamingVGA"
+        },
+        {
+            "patterns": [
+                "Give me some information about Gaming Rams"
+            ],
+            "responses": [
+                "**Gaming RAM**\n\nGaming RAM, also known as high-performance RAM or enthusiast RAM, is a type of computer memory specifically designed for gaming PCs. It is optimized to provide faster data transfer speeds and lower latencies, which can improve overall gaming performance.\n\n**Key Features of Gaming RAM:**\n\n* **High Speed:** Gaming RAM typically operates at higher clock speeds, ranging from 3200MHz to 5600MHz or higher. This allows for faster processing of data and instructions, resulting in smoother gameplay and reduced load times.\n* **Low Latency:** Latency, measured in nanoseconds (ns), refers to the delay between a command being sent to the RAM and the data being retrieved. Gaming RAM has low latency, typically around 16ns or less, which minimizes delays and improves responsiveness.\n* **High Capacity:** Gaming RAM is often available in larger capacities, ranging from 16GB to 64GB or more, to accommodate the memory-intensive demands of modern games.\n* **Heat Spreaders:** Gaming RAM often features heat spreaders, which are metal plates that help dissipate heat from the memory modules. This prevents overheating, ensuring stable performance during intense gaming sessions.\n* **RGB Lighting:** Some gaming RAM modules come with RGB lighting, allowing users to customize the appearance of their PC.\n\n**Benefits of Gaming RAM:**\n\n* **Improved Gaming Performance:** Faster data transfer speeds and lower latencies can result in smoother gameplay, reduced stuttering, and faster load times.\n* **Enhanced Responsiveness:** Low latency RAM improves the responsiveness of games, making controls feel more precise and reducing input lag.\n* **Stability and Reliability:** Gaming RAM is designed to be stable and reliable, even under heavy load, ensuring consistent performance during extended gaming sessions.\n* **Aesthetic Appeal:** RGB lighting on gaming RAM can enhance the visual appeal of a gaming PC.\n\n**Considerations When Choosing Gaming RAM:**\n\n* **Compatibility:** Make sure the RAM is compatible with your motherboard and CPU.\n* **Speed:** Choose RAM with a speed that is supported by your motherboard and CPU.\n* **Capacity:** Determine the amount of RAM required based on the games you play and other programs you use.\n* **Latency:** Lower latency RAM is preferred for gaming.\n* **Features:** Consider additional features such as heat spreaders and RGB lighting if desired. (This was gathered from Gemini API)"
+            ],
+            "images": [],
+            "tag": "GamingRAM"
+        },
+        {
+            "patterns": [
+                "I need to konow about RTX 1030 VGA"
+            ],
+            "responses": [
+                "The RTX 1030 is a graphics card released by Nvidia in 2018. It is based on the Pascal architecture and is manufactured on a 14 nm process. The card features 512 CUDA cores, 16 texture units, and 8 ROPs. It has a boost clock of 1506 MHz and a memory clock of 6008 MHz. The card is equipped with 2 GB of GDDR5 memory on a 64-bit bus.\n\nThe RTX 1030 is a low-end graphics card that is suitable for casual gaming and basic video editing. It is not powerful enough for demanding games or professional video editing.\n\nHere are some of the pros and cons of the RTX 1030:\n\n**Pros:**\n\n* Low price\n* Compact size\n* Low power consumption\n* Quiet operation\n\n**Cons:**\n\n* Low performance\n* Only 2 GB of VRAM\n* Not suitable for demanding games or professional video editing\n\nOverall, the RTX 1030 is a good choice for budget-minded gamers and users who need a basic graphics card for everyday tasks. (This was gathered from Gemini API)"
+            ],
+            "images": [],
+            "tag": "NVIDIA GeForce RTX 1030"
+        },
+        {
+            "patterns": [
+                "I need to konow about RTX 1030 VGA"
+            ],
+            "responses": [
+                "The RTX 1030 is a graphics card released by Nvidia in 2018. It is based on the Pascal architecture and is manufactured on a 16 nm process. The card features 384 CUDA cores, 24 texture units, and 16 ROPs. It has a base clock speed of 1265 MHz and a boost clock speed of 1512 MHz. The card is equipped with 2GB of GDDR5 memory and has a memory bandwidth of 64 GB/s. The RTX 1030 has a TDP of 75W and requires a single 6-pin power connector.\n\nThe RTX 1030 is a low-end graphics card that is designed for budget-minded gamers. It is capable of playing most modern games at low to medium settings. The card is also well-suited for esports titles and older games.\n\nHere are some of the pros and cons of the RTX 1030:\n\n**Pros:**\n\n* Affordable\n* Low power consumption\n* Compact size\n* Supports DirectX 12 and Vulkan\n\n**Cons:**\n\n* Limited performance\n* Only 2GB of VRAM\n* No DisplayPort output\n\nOverall, the RTX 1030 is a good option for budget-minded gamers who are looking for a graphics card that can play most modern games at low to medium settings. (This was gathered from Gemini API)"
+            ],
+            "images": [],
+            "tag": "budgetgaming"
+        },
+        {
+            "patterns": [
+                "Kingston Product Price "
+            ],
+            "responses": [
+                "PC parts (This was gathered from Gemini API)"
+            ],
+            "images": [],
+            "tag": "pc-parts"
+        },
+        {
+            "patterns": [
+                "can i sleep now",
+                "can i sleep now",
+                "ok",
+                "4GB DDR3",
+                "how a PC works",
+                "I need a list of friends",
+                "hi I need list of frames",
+                "hi I need a list of Rams",
+                "who is batman",
+                "I mean it's 9",
+                "no",
+                "huui",
+                "hoop woop",
+                "Who is Linkan"
+            ],
+            "responses": [
+                "I'm sorry, I'm only allowed to answer tech-related and PC parts questions. :)",
+                "I'm sorry, I'm only allowed to answer tech-related and PC parts questions. :)",
+                "I'm sorry, I'm only allowed to answer tech-related and PC parts questions. :)",
+                "I'm sorry, I'm only allowed to answer tech-related and PC parts questions. :)",
+                "I'm sorry, I'm only allowed to answer tech-related and PC parts questions. :)",
+                "I'm sorry, I'm only allowed to answer tech-related and PC parts questions. :)",
+                "I'm sorry, I'm only allowed to answer tech-related and PC parts questions. :)",
+                "I'm sorry, I'm only allowed to answer tech-related and PC parts questions. :)",
+                "I'm sorry, I'm only allowed to answer tech-related and PC parts questions. :)",
+                "I'm sorry, I'm only allowed to answer tech-related and PC parts questions. :)",
+                "I'm sorry, I'm only allowed to answer tech-related and PC parts questions. :)",
+                "I'm sorry, I'm only allowed to answer tech-related and PC parts questions. :)",
+                "I'm sorry, I'm only allowed to answer tech-related and PC parts questions. :)",
+                "I'm sorry, I'm only allowed to answer tech-related and PC parts questions. :)"
+            ],
+            "tag": "non_tech_questions"
+        },
+        {
+            "patterns": [
+                "what is a rtx 3070",
+                "what is a rtx 3060 vga?",
+                "what is this",
+                "What is a Rtx 1020 VGA Card",
+                "What is a RTX 3060 VGA Card "
+            ],
+            "responses": [
+                "**What is an RTX 3070?**\n\nThe NVIDIA GeForce RTX 3070 is a high-performance graphics card designed for gaming and professional applications. It was released on October 29, 2020, as part of the NVIDIA Ampere architecture series.\n\n**Specifications:**\n\n* **Graphics Processing Unit (GPU):** GA104\n* **CUDA Cores:** 5,888\n* **Memory:** 8GB GDDR6\n* **Memory Bus Width:** 256-bit\n* **Base Clock Speed:** 1,500 MHz\n* **Boost Clock Speed:** 1,845 MHz\n* **Display Outputs:** 1x HDMI 2.1, 3x DisplayPort 1.4a\n* **PCI Express Interface:** PCIe 4.0 x16\n\n**Features:**\n\n* **Ray Tracing (RTX):** Second-generation RT cores enable real-time ray tracing for realistic lighting and shadows.\n* **Tensor Cores:** Third-generation tensor cores enhance AI-powered features like DLSS (Deep Learning Super Sampling) and AI denoising.\n* **Variable Rate Shading (VRS):** Optimizes performance by shading different areas of the screen with different detail levels.\n* **NVIDIA Broadcast:** Software suite that enhances video and voice communication for streamers and creators.\n* **DLSS:** AI technology that boosts frame rates while maintaining image quality.\n* **G-SYNC Compatibility:** Synchronizes the graphics card with G-SYNC-enabled monitors to eliminate screen tearing and stuttering.\n\n**Performance:**\n\nThe RTX 3070 offers significant performance improvements over its predecessors, including the RTX 2070 and RTX 2080. It can handle demanding games at high resolutions and frame rates, providing smooth and immersive gaming experiences.\n\n**Target Audience:**\n\nThe RTX 3070 is designed for enthusiasts and gamers who want high-quality graphics and performance for a reasonable price. It is also a good choice for professionals in fields such as 3D rendering, video editing, and animation.\n\n**Overall:**\n\nThe RTX 3070 is a powerful and versatile graphics card that delivers excellent performance for gaming and professional applications. It offers a balance of price, performance, and features, making it a great choice for a wide range of users.\n\n(This information is gathered from Gemini API)",
+                "**NVIDIA GeForce RTX 3060**\n\n**Overview:**\n\nThe NVIDIA GeForce RTX 3060 is a mid-range graphics processing unit (GPU) released in February 2021. It is based on the NVIDIA Ampere architecture and offers significant performance improvements over its predecessor, the RTX 2060.\n\n**Key Features:**\n\n* **Graphics Core:** Ampere GA106-300-A1\n* **CUDA Cores:** 3584\n* **Boost Clock:** Up to 1.88 GHz\n* **Memory:** 12GB GDDR6\n* **Memory Speed:** 15 Gbps\n* **Memory Interface:** 192-bit\n* **TDP:** 170W\n\n**Performance:**\n\n* **1080p Performance:** Excellent performance for gaming at 1080p resolution with high frame rates and smooth gameplay.\n* **1440p Performance:** Capable of handling 1440p gaming at high settings, providing a good balance of performance and visual quality.\n* **Ray Tracing Performance:** Supports real-time ray tracing, enhancing the realism and immersion of games.\n* **DLSS Performance:** Supports NVIDIA's Deep Learning Super Sampling (DLSS) technology, which improves performance and image quality by using AI-powered upscaling.\n\n**Other Features:**\n\n* **PCIe 4.0 Interface:** Utilizes the latest PCIe 4.0 interface for faster data transfer rates.\n* **Resizable BAR Support:** Enhances performance by allowing the GPU to access the entire frame buffer at once.\n* **NVIDIA Reflex Technology:** Reduces system latency for improved responsiveness in competitive games.\n* **Broadcast Encoder:** Optimizes video encoding for live streaming and content creation.\n\n**Target Audience:**\n\nThe RTX 3060 is an ideal graphics card for gamers who want a balance of performance and affordability for 1080p and 1440p gaming. It is also suitable for content creators and enthusiasts who require decent ray tracing capabilities and video encoding performance.\n\n(This information is gathered from Gemini API)",
+                "This is a piece of art by Kazimir Malevich, a Russian artist, called \"Black Square\". It is one of the most famous works of art of the 20th century, and has been exhibited in major museums around the world. The painting is a simple black square on a white background, and it is often seen as a symbol of the Russian avant-garde and the birth of abstract art.\n\n(This information is gathered from Gemini API)",
+                "Sorry, I couldn't find any details for that product.\n\n(This information is gathered from Gemini API: There is no such thing as an RTX 1020 VGA card. The RTX series of graphics cards from NVIDIA starts with the RTX 20 series, and there is no RTX 1000 series.)",
+                "Sorry, I couldn't find any details for that product.\n\n(This information is gathered from Gemini API: **NVIDIA GeForce RTX 3060**\n\nThe NVIDIA GeForce RTX 3060 is a mid-range graphics card released by NVIDIA in February 2021. It is part of the RTX 30 series, which is based on the Ampere architecture.\n\n**Specifications:**\n\n* **GPU:** GA106\n* **CUDA Cores:** 3584\n* **RT Cores (Ray Tracing):** 28\n* **Tensor Cores (AI):** 112\n* **Memory:** 12GB GDDR6\n* **Memory Interface:** 192-bit\n* **Memory Bandwidth:** 360GB/s\n* **Clock Speed:**\n    * Base: 1320 MHz\n    * Boost: 1777 MHz\n* **TDP:** 170W\n* **PCIe Interface:** PCIe 4.0 x16\n* **Display Outputs:**\n    * 1x HDMI 2.1\n    * 3x DisplayPort 1.4a\n\n**Features:**\n\n* **Ray Tracing:** Supports hardware-accelerated ray tracing for realistic lighting and shadows in games.\n* **DLSS (Deep Learning Super Sampling):** AI-powered upscaling technology that improves performance while maintaining image quality.\n* **NVIDIA Reflex:** Reduces system latency for faster responsiveness in competitive games.\n* **NVIDIA Broadcast:** Enhanced streaming and video conferencing capabilities with noise removal and virtual background features.\n* **PCIe 4.0 Support:** High-speed connection for maximum performance.\n\n**Performance:**\n\nThe RTX 3060 offers excellent performance for 1080p and 1440p gaming at high frame rates. It can handle demanding AAA games and esports titles with ease. In benchmarks, it typically outperforms the previous-generation RTX 2060 Super and rivals the RTX 2080 Ti in some games.\n\n**Availability and Pricing:**\n\nThe RTX 3060 has been facing supply shortages and high demand since its release. However, it is expected to become more readily available in the future. The suggested retail price of the RTX 3060 is $329, but actual prices may vary depending on the manufacturer and retailer.)"
+            ],
+            "tag": "product_query"
+        },
+        {
+            "patterns": [
+                "rtx 3060"
+            ],
+            "responses": [
+                "\n\n(This information is gathered from Gemini API: **NVIDIA GeForce RTX 3060**\n\n**Overview:**\n\n* Mid-range graphics card released in February 2021\n* Part of the NVIDIA Ampere GPU architecture\n* Designed for 1080p and 1440p gaming at high frame rates\n* Supports ray tracing and NVIDIA DLSS technology\n\n**Specifications:**\n\n* **GPU:** GA106\n* **CUDA Cores:** 3584\n* **Boost Clock:** Up to 1.78 GHz\n* **Memory:** 12GB GDDR6\n* **Memory Clock:** 15 Gbps\n* **Memory Interface:** 192-bit\n* **Memory Bandwidth:** 360 GB/s\n* **TDP:** 170W\n* **Power Connectors:** 1x 8-pin\n\n**Features:**\n\n* **NVIDIA RTX:** Supports ray tracing for realistic lighting and shadows\n* **NVIDIA DLSS:** Artificial intelligence-based image upscaling technology to boost performance\n* **NVIDIA Reflex:** Reduces system latency for improved responsiveness in competitive gaming\n* **NVIDIA Broadcast:** Optimizes audio and video streams for content creators\n* **Resizable BAR:** Enhances communication between GPU and CPU for faster performance\n\n**Performance:**\n\nThe RTX 3060 offers excellent performance for 1080p and 1440p gaming. It can deliver:\n\n* High frame rates (over 60 FPS) in most modern games at 1080p with high or ultra settings\n* Solid frame rates (over 45 FPS) in demanding games at 1440p with high or medium settings\n* Can handle ray tracing at lower resolutions and medium settings\n\n**Value:**\n\nThe RTX 3060 provides a great balance of performance and affordability, making it a popular choice for gamers.\n\n**Availability and Pricing:**\n\nThe RTX 3060 is available from various manufacturers and is priced around $300-$400 (subject to market fluctuations).\n\n**Conclusion:**\n\nThe RTX 3060 is an excellent graphics card for mid-range gaming. It offers strong performance at 1080p and 1440p resolutions, featuring ray tracing and DLSS support. Its affordable price makes it a great value for gamers looking for a high-quality gaming experience without breaking the bank.)"
+            ],
+            "tag": "**NVIDIA GeForce RTX 3060**"
+        },
+        {
+            "patterns": [
+                "hi",
+                "hi",
+                "hi"
+            ],
+            "responses": [
+                "Hello",
+                "Hi there, how can I help?",
+                "Hi there, how can I help?"
+            ],
+            "tag": "greeting"
+        },
+        {
+            "patterns": [
+                "hi how are you"
+            ],
+            "responses": [
+                "Thanks For Asking! How can I help you?"
+            ],
+            "tag": "about"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "intents": [
+        {
+            "image_filename": "17d71a03-62c2-4e74-9a54-6d58fee07f48.jpeg",
+            "response_message": "The image is of a PC part or computer-related. Detected labels: Hardware, Computer",
+            "detected_labels": [
+                "RAM Memory",
+                "Person",
+                "Electronics",
+                "Hardware",
+                "Computer",
+                "Computer Hardware",
+                "Scoreboard"
+            ],
+            "matching_labels": [
+                "Hardware",
+                "Computer"
+            ],
+            "timestamp": "2024-06-02T20:42:03.172001"
+        },
+        {
+            "image_filename": "edd79ad2-ffd8-4302-ae84-db0a2a9d9eb1.jpeg",
+            "response_message": "The image is of a PC part or computer-related. Detected labels: Computer, Hardware",
+            "detected_labels": [
+                "Computer Hardware",
+                "Device",
+                "Electronics",
+                "Appliance",
+                "Disk",
+                "Computer",
+                "Hardware",
+                "First Aid",
+                "Electrical Device",
+                "Adapter"
+            ],
+            "timestamp": "2024-06-02T20:59:24.693078"
+        },
+        {
+            "image_filename": "eac03d6f-bb5e-4f6a-9140-16e9417beaf7.jpeg",
+            "response_message": "The image is of a tech-related product. Details:\n\nWeb Entities:\n- Graphics Card\n- GIGABYTE GeForce RTX 4060 Ti EAGLE OC 8G Graphics Card GV-N\n- GIGABYTE\n- 8 GB\n- 128-bit\n- Nvidia RTX\n- GeForce\n- \n- Nvidia\n- GDDR6 SDRAM\n",
+            "timestamp": "2024-06-03T01:52:11.696003"
+        },
+        {
+            "image_filename": "7d951ea0-ada2-4847-9adc-8ef36d9161e0.jpeg",
+            "response_message": "The image is of a tech-related product. Details:\n\nWeb Entities:\n- Graphics Card\n- GALAX GeForce RTX 3080 Ti HOF\n- 24 GB\n- GALAX\n- Galax GeForce RTX 3090 SG\n- NVIDIA GeForce RTX 3090\n- 12 GB\n- Graphics processing unit\n- KFA2 GeForce RTX 3090 HOF\n- \n",
+            "timestamp": "2024-06-03T01:52:52.814781"
+        },
+        {
+            "image_filename": "88a249e6-606c-4d7f-83b9-66f33d2425bd.jpeg",
+            "response_message": "The image is of a tech-related product. Details:\nRAM\nCorsair Vengeance LPX 16GB DDR4 DRAM 3000MHz C15 Desktop Memory Kit\nCorsair Vengeance LPX DDR4 Memory\nDDR4 SDRAM\nCORSAIR\nCorsair Vengeance LPX 8GB DDR4\nComputer memory\n16 GB\n8 GB\nCorsair Gaming\n",
+            "timestamp": "2024-06-03T02:41:13.111022"
+        },
+        {
+            "image_filename": "74e1cc85-5a3b-4c7f-9523-c6a78d9d0a78.png",
+            "response_message": "The image is of a tech-related product. Details:\nRAM\nDDR3 SDRAM\nKingston\nDDR4 SDRAM\nNon Ecc\nComputer memory\nDIMM\nComputer\nKingston HyperX Blu DDR3\nHyperX Fury DDR3 Memory\n\nAvailability: Not available in inventory.",
+            "timestamp": "2024-06-03T03:15:37.582006"
+        },
+        {
+            "image_filename": "e52b226f-a1d1-418a-a031-51548e65bab3.png",
+            "response_message": "The image is of a tech-related product. Details:\nGaming Computer\nRAM\nDDR5 SDRAM\nDDR4 SDRAM\nPersonal computer\nDynamic random-access memory\nComputer memory\nDIMM\nComputer\nDesktop Computer\n\nAvailability: Not available in inventory.",
+            "timestamp": "2024-06-03T03:19:53.630503"
+        },
+        {
+            "image_filename": "c807543b-e14b-4e72-a62c-6a89a884b57f.png",
+            "response_message": "The image is of a tech-related product. Details:\nRAM\nTeamGroup\nDDR5 SDRAM\nTEAMGROUP\n288 Pin\nComputer memory\n1.35 v\n32 GB\nMemory module\nTeam Group Inc Team T-Force Delta RGB 32GB 288-Pin PC RAM DDR5 6000 Desktop Memory Model FF4D532G6000HC30DC01\n\nAvailability: Not available in inventory.",
+            "timestamp": "2024-06-03T03:21:42.300616"
+        },
+        {
+            "image_filename": "fe7da15c-a1a4-4eff-9b66-430a268d75d3.png",
+            "response_message": "The image is of a tech-related product. Details:\nTeam T-Force Night Hawk RGB 16GB 288-pin DDR4 SDRAM DDR4\nRAM\nDDR4 SDRAM\nTEAMGROUP\nTeamGroup\nTeam T-Force Night Hawk RGB GEN 2.0 Ddr4 3200 TF15D\n288 Pin\n1.35 v\nPC4 25600\nComputer memory\n\nAvailability: Not available in inventory.",
+            "timestamp": "2024-06-03T03:22:50.896259"
+        },
+        {
+            "image_filename": "73d6f344-ff38-4953-b40a-894413fdacb4.png",
+            "response_message": "The image is of a tech-related product. Details:\nGraphics Card\nGDDR5 SDRAM\nZOTAC\n2 GB\nZOTAC\nZOTAC GeForce GTX 750 Ti\nGraphics processing unit\nASUS GTX750TI-OC-2GD5 geforce GTX 750 Ti 2gb 128-bit gddr5 pci express\nDigital Visual Interface\nHDMI\n\nAvailability: Not available in inventory.",
+            "timestamp": "2024-06-03T03:24:31.210079"
+        },
+        {
+            "image_filename": "e104990d-e500-4883-811f-d8eb6b9987a5.png",
+            "response_message": "The image is of a tech-related product. Details:\nElectrical cable\nSATA\nHard Drive\nData\nUsb 2.0 To Sata Cable\nCategory 6 cable\nPower cable\nSolid State Drive\nData cable\nWire\n\nAvailability: Not available in inventory.",
+            "timestamp": "2024-06-03T03:25:51.460401"
+        },
+        {
+            "image_filename": "7484918e-a8a4-4fb1-94d7-bd37d62f36aa.png",
+            "response_message": "The image is of a tech-related product. Details:\nPower supply unit\nComputer case\nComputer hardware\nPower supply\nATX\n80 Plus\n80 PLUS Bronze\nPersonal computer\nComputer\nPC building\n\nAvailability: Not available in inventory.",
+            "timestamp": "2024-06-03T03:27:13.373298"
+        },
+        {
+            "image_filename": "754e8ced-67e3-4924-a3c5-2d1aaaf15796.jpeg",
+            "response_message": "The image is of a tech-related product. Details:\nGraphics Card\nGraphics processing unit\n\nNvidia\nGigabyte AORUS GeForce RTX 4090 MASTER 24G Graphics Card\nNvidia RTX\nGIGABYTE\nComputer\nGeForce\nGeForce 50\n\nAvailability: Not available in inventory.",
+            "timestamp": "2024-06-03T03:28:48.246206"
+        },
+        {
+            "image_filename": "812a80df-0001-4e72-b38c-e8d0717a6c9f.jpeg",
+            "response_message": "The image is of a tech-related product. Details:\nRAM\nComputer memory\nDDR3 SDRAM\n240-pin\nComputer\n\nDell\nECC memory\n204-pin\nHP\n\nAvailability: Not available in inventory.",
+            "timestamp": "2024-06-03T03:28:59.000879"
+        },
+        {
+            "image_filename": "e63ca406-96fc-4a22-a2cd-58f125eade44.jpeg",
+            "response_message": "The image is of a tech-related product. Details:\nLight\nLight-emitting diode\nLED Strip Light\nRGB color model\nLight fixture\nColor\nLED lamp\nLamp\nRGBW\nBande LED RVB WS2812B 5m 5V\n\nAvailability: Not available in inventory.",
+            "timestamp": "2024-06-03T03:29:17.520436"
+        },
+        {
+            "image_filename": "b219c2bb-6a2b-4c5e-ada7-1b639cd75693.png",
+            "response_message": "The image is of a tech-related product. Details:\nCPU\nProcessor\nComputer\nIntel\nDesktop Computer\nIntel Core i3\nComputer hardware\nElectronic component\nMicroprocessor\nMotherboard\n\nAvailability: Not available in inventory.",
+            "timestamp": "2024-06-03T03:29:32.390291"
+        },
+        {
+            "image_filename": "8dd8ac2d-0769-4427-9abc-e6a82e392f17.png",
+            "response_message": "The image is of a tech-related product. Details:\nRAM\nDDR3 SDRAM\nKingston\nDDR4 SDRAM\nComputer memory\nDDR3\nDIMM\n\nKingston Technology\nComputer\n\nAvailability: Not available in inventory.",
+            "timestamp": "2024-06-03T10:06:48.322375"
+        }
+    ]
+}
